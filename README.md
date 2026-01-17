@@ -40,7 +40,7 @@ La aplicación genera contenido listo para copiar y pegar directamente en **X (T
 
 ---
 
-## ⚙️ Instalación
+## Instalación
 
 ### 1. Clonar el repositorio
 
