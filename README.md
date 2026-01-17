@@ -81,12 +81,15 @@ python app.py
 Gradio levantará un servidor local, normalmente en: http://127.0.0.1:7860 
 
 ## Estructura del proyecto 
+´´´
 . 
 ├── app.py 
 ├── .env 
 ├── requirements.txt 
 ├── favicon.png 
 ├── README.md 
+```
+
 ### Autora 
 Proyecto creado por **Irene Smykla Jiménez** para el aprendizaje en IA generativa, Python, prompt engineering
 
