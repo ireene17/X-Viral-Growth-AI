@@ -91,4 +91,4 @@ Gradio levantará un servidor local, normalmente en: http://127.0.0.1:7860
 Proyecto creado por **Irene Smykla Jiménez** para el aprendizaje en IA generativa, Python, prompt engineering
 
 ### Imagen del Proyecto
-![vision general de la pagina donde hay un campo para introducir el tema del tweet y otro de respuesta con el tweet generado. Botones para seleccionar la categoría y si quieres generar un tweet aleatoriamente](.png)
+![vision general de la pagina donde hay un campo para introducir el tema del tweet y otro de respuesta con el tweet generado. Botones para seleccionar la categoría y si quieres generar un tweet aleatoriamente](interfaz.png)
