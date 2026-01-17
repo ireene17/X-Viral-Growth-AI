@@ -71,7 +71,7 @@ Este proyecto utiliza la **Google Gemini API**.
 **1.** Obtén tu API Key en Google AI Studio. 
 **2.** Crea un archivo .env en la raíz del proyecto: 
 ```
-    GEMINI_API_KEY=tu_api_key  
+GEMINI_API_KEY=tu_api_key  
 ``` 
 ## Uso 
 Ejecuta la aplicación con: 
@@ -81,13 +81,15 @@ python app.py
 Gradio levantará un servidor local, normalmente en: http://127.0.0.1:7860 
 
 ## Estructura del proyecto 
-´´´
+
+```
 . 
 ├── app.py 
 ├── .env 
 ├── requirements.txt 
 ├── favicon.png 
 ├── README.md 
+
 ```
 
 ### Autora 
